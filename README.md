@@ -82,5 +82,9 @@ You are required to submit the following:
 * The URLs of the GitHub repositories
 
 - - -
+Screenshots:
+![desktop screenshot](./Assests/Screenshot-1.png)
+![mobile screenshot](./Assests/Screenshot-mobile-1.png)(./Assests/Screenshot-mobile-2.png)
+![local storage screenshot](./Assests/local-storage.png)
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
