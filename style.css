@@ -1,6 +1,6 @@
 /*Background Color of site*/
 .body {
-    background: lavenderblush;
+    background: rgb(189, 228, 250);
 }
 
 /* Navigation bar*/
@@ -17,7 +17,7 @@
 
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    colour: white;
+    color: white;
     padding-top: 30px;
     padding-left: 150px;
     padding-bottom: 40px;
@@ -59,8 +59,8 @@ h1 {
     padding-left: 25px;
 }
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif
-    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     margin: auto;
   }
   
   html {
