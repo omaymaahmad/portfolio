@@ -1,22 +1,23 @@
 /*Background Color of site*/
 .body {
-    background: rgb(189, 228, 250);
+    background: rgb(202, 187, 230);
 }
 
 /* Navigation bar*/
 .navbar-brand {
-    background-color: lightgrey;
-    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    background-color: rgb(180, 218, 240);
+    font-family: Verdana, Tahoma, sans-serif; 
 }
 
 .navbar-nav {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Tahoma, sans-serif;
+    padding-bottom: 10px;
 }
 
 /* Headers*/
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Tahoma, sans-serif;
     color: white;
     padding-top: 30px;
     padding-left: 150px;
@@ -31,11 +32,21 @@ h1 {
 }
 
 /* Index Cards*/
+
+.index-card {
+  background-color: whitesmoke;
+  padding: 20px; 
+}
+
 .card {
     width: 300px;
     margin: auto;
     border: 5px solid black;
     align-items: center;
+  }
+
+  #about-me {
+    padding-bottom: 25px;
   }
 
 /* Contact Form*/
@@ -50,13 +61,22 @@ h1 {
     padding: 25px;
 }
 
+.h4 {
+  padding-left: 25px;
+}
+
 /* Portfolio Cards*/
 .contact-card {
     width: 300px;
     margin: auto;
-    border: 5px solid black;
+    border: 2px solid black;
     align-items: center;
     padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: whitesmoke; 
+    
 }
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
